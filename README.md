@@ -41,6 +41,7 @@ Tenho facilidade com interfaces modernas, boas práticas de UI/UX e estou aprend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![n8n](https://img.shields.io/badge/-n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-0f0f0f?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
